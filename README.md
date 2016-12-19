@@ -2,7 +2,9 @@
 
 I am really lazy to edit these pages, but feel free to ask me anything. Below are a list of links available within this site. Fork it at [github](https://github.com/eccstartup/eccstartup.github.io).
 
-[hello](docs/hello)
+### Links
+
+- [hello](docs/hello)
 
 ### Some Pieces of Works
 
