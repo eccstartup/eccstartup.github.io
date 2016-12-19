@@ -5,6 +5,7 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 ### Links
 
 - [hello](docs/hello)
+- [old tryhaskell.org](hidden/haskell/index.html)
 
 ### Some Pieces of Works
 
