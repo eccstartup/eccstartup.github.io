@@ -5,7 +5,6 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 ### Links
 
 - [hello](docs/hello)
-- [old tryhaskell.org](hidden/haskell/index.html)
 
 ### Some Pieces of Works
 
@@ -16,7 +15,7 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 ### Some Interests
 
 - Mathematics
-- Haskell
+- [Haskell](https://www.haskell.org/)
 - French
 
 ### Support or Contact
