@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: [闲言碎语]
 description: [A funny place]
-show_downloads: [false]
+show_downloads: ["false"]
