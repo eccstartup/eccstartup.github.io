@@ -4,8 +4,8 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 
 ### Links
 
-- [hello](docs/hello)
-- [Ideas from fb](docs/fromfb)
+1. [hello](docs/hello)
+2. [Ideas from fb](docs/fromfb)
 
 ### Some Pieces of Works
 
