@@ -14,6 +14,11 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 - [ORCID](http://orcid.org/0000-0001-6066-9249)
 - [Project Euler 510](images/euler510.jpg)
 
+### Working experiences
+
+- 2017.4-2018.4 Developer of Huawei revenue management software, Nankin/ C++.
+- 2018.5-2018.9 Backend developer of online labeling system of CloudBU Huawei, Hangzhou/ Scala
+
 ### Some Interests
 
 - Mathematics
