@@ -23,3 +23,7 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 ### Support or Contact
 
 [zhiwudazhanjiangshi@gmail.com](mailto:zhiwudazhanjiangshi@gmail.com)
+
+### How to contribute
+
+[How to contribute](https://github.com/eccstartup/eccstartup.github.io/wiki/How-to-contribute)
