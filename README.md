@@ -5,7 +5,8 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 ### Links
 
 1. [hello](docs/hello)
-2. [Ideas from fb](docs/fromfb)
+2. [中文主页](docs/cn/index)
+3. [En index](docs/en/index)
 
 ### Some Pieces of Works
 
