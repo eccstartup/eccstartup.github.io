@@ -5,6 +5,7 @@
 * [2018年总结](year2018.md)
 * [杭州印象](hangzhou2018.md)
 * [冰箱](fridge2019.md)
+* [当我们说EMUI垃圾的时候，我们在谈什么？](whyemuifails2020.md)
 
 [返回](../..)
 
