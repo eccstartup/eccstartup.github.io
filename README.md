@@ -12,6 +12,7 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 
 - [phdthesis](https://github.com/eccstartup/phdthesis)
 - [ORCID](http://orcid.org/0000-0001-6066-9249)
+- [AMS-MRAuthorID](https://mathscinet.ams.org/mathscinet/MRAuthorID/1157744)
 - [Project Euler 510](images/euler510.jpg)
 
 ### Working experiences
