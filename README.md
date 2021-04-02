@@ -20,6 +20,8 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 
 - 2017.4-2018.4 Developer of Huawei revenue management software, Nankin/ C++.
 - 2018.5-2018.9 Backend developer of online labeling system of CloudBU Huawei, Hangzhou/ Scala
+- 2018.10-2021.1 Data scientist of transfer learning and federated learning, Nankin/Python
+- 2021.1-Now working at NAU
 
 ### Some Interests
 
