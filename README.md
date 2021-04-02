@@ -5,8 +5,9 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 ### Links
 
 1. [hello](docs/hello)
-2. [中文主页](docs/cn/index)
+2. [一些日记](docs/cn/index)
 3. [En index](docs/en/index)
+4. [技术贴](docs/tech/index)
 
 ### Some Pieces of Works
 
