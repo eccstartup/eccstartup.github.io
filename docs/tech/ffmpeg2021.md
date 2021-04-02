@@ -28,7 +28,7 @@
    最后一步了，我们把解压好的ffmpeg.exe拿出来，进行合并。一个命令即可
 
    ```bash
-   ffmpeg-n4.3.2-162-g4bbcaf7559-win64-gpl-4.3\bin\ffmpeg.exe -r 10 -f image2 -loop 1 -i cover.png -i 统计调查与数据采集4.mp3 -s 1920x1080 -pix_fmt yuvj420p -t 7316 -vcodec libx264 output.mp4
+   ffmpeg-n4.3.2-162-g4bbcaf7559-win64-gpl-4.3\bin\ffmpeg.exe -r 10 -f image2 -loop 1 -i cover.png -i 统计调查与数据采集4.mp3 -s 1920x1080 -pix_fmt yuvj420p -t 7316 -vcodec libx264 -c:a copy output.mp4
    ```
 
 ​    此处，我们需要设置的几个参数是
