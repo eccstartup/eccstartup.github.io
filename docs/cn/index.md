@@ -7,6 +7,7 @@
 * [冰箱](fridge2019.md)
 * [当我们说EMUI垃圾的时候，我们在谈什么？](whyemuifails2020.md)
 * [惯例贴](huawei2020.md)
+* [三十四](thirtyfour2021.md)
 
 [返回](../..)
 
