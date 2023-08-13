@@ -23,7 +23,8 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 
 ### Support or Contact
 
-[zhiwudazhanjiangshi@gmail.com](mailto:zhiwudazhanjiangshi@gmail.com)
+- [zhiwudazhanjiangshi@gmail.com](mailto:zhiwudazhanjiangshi@gmail.com)
+- wechat: eccstartup
 
 ### How to contribute
 
