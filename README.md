@@ -2,19 +2,11 @@
 
 I am really lazy to edit these pages, but feel free to ask me anything. Below are a list of links available within this site.
 
-### Links
-
-1. [hello](docs/hello)
-2. [一些日记](docs/cn/index)
-3. [En index](docs/en/index)
-4. [技术贴](docs/tech/index)
-
 ### Some Pieces of Works
 
 - [phdthesis](https://github.com/eccstartup/phdthesis)
 - [ORCID](http://orcid.org/0000-0001-6066-9249)
 - [AMS-MRAuthorID](https://mathscinet.ams.org/mathscinet/MRAuthorID/1157744)
-- [Project Euler 510](images/euler510.jpg)
 
 ### Working experiences
 
@@ -25,9 +17,9 @@ I am really lazy to edit these pages, but feel free to ask me anything. Below ar
 
 ### Some Interests
 
-- Mathematics
-- [Haskell](https://www.haskell.org/)
-- French
+- Computational Mathematics
+- Machine Learning
+- Robotics
 
 ### Support or Contact
 
